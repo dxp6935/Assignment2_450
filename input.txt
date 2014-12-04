@@ -1,0 +1,2 @@
+a = ( b + c ) * d / e 
+s u m = ( s u m + 4 7 ) / t o t a l
